@@ -136,11 +136,14 @@ body{
 }
 
 .maincont{
-	display: flex;
-	align-items: center;
-	justify-content: center;
 	text-align: center;
 	
+}
+
+.maincont p{
+	font-size: 20px;
+	padding: 10px;
+	margin: 20px;
 }
 
 .cont2{
