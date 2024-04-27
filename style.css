@@ -156,6 +156,10 @@ body{
 	padding: 10px;
 }
 
+.contact-info{
+	text-align: center;
+}
+
 .link{
 	background: #786954;
 	border:none;
