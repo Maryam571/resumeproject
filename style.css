@@ -27,7 +27,7 @@ body{
 	text-decoration: none;
 	font-size: 30px;
 	font-family:'Lamarkie', verdana, sans-serif;
-	color:white;
+	color:black;
 	font-weight: lighter;
 	
 }
@@ -127,7 +127,7 @@ body{
 	 height:50%; 
 	 display:inline-block;
 	 margin: 10px;
-	 background-color: black;
+	 background-color: white;
 	 padding: 5px;
 	 border-radius: 3px;
 	 border: 5px;
