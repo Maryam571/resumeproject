@@ -19,15 +19,15 @@ body{
 
 @font-face {
 	font-family:'Lamarkie' ;
-	src: url('C:/Users/simpl_2kwx2lr/OneDrive/Desktop/IT 431/Website 1 resume/Lamarkie.otf');
+	src: url('"C:\Users\simpl_2kwx2lr\Downloads\resumeproject-main\resumeproject-main\Lamarkie.otf"');
 }
 
 
 .home a {
 	text-decoration: none;
 	font-size: 30px;
-	font-family:'Lamarkie', verdana, sans-serif;
-	color:black;
+	font-family:'Lamarkie', Verdana, sans-serif;
+	color: black;
 	font-weight: lighter;
 	
 }
