@@ -19,7 +19,7 @@ body{
 
 @font-face {
 	font-family:'Lamarkie' ;
-	src: url("C:\Users\simpl_2kwx2lr\Downloads\resumeproject-main\resumeproject-main\Lamarkie.otf");
+	src: url("Lamarkie.otf") format('opentype');
 }
 
 
